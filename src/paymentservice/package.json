@@ -22,7 +22,7 @@
     "@opentelemetry/api": "1.8.0",
     "@opentelemetry/sdk-metrics": "1.24.1",
     "@opentelemetry/exporter-trace-otlp-grpc": "0.51.1",
-    "@opentelemetry/exporter-metrics-otlp-grpc": "0.51.1",
+    "@opentelemetry/exporter-metrics-otlp-grpc": "0.208.0",
     "@opentelemetry/sdk-node": "0.51.1",
     "@opentelemetry/resource-detector-alibaba-cloud": "0.28.9",
     "@opentelemetry/resource-detector-aws": "1.5.0",
